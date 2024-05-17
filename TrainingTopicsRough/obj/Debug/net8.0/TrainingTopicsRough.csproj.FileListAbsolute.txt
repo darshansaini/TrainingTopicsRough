@@ -1,0 +1,14 @@
+C:\Users\darsh\OneDrive\Desktop\Work_palace\TrainingTopicsRough\TrainingTopicsRough\bin\Debug\net8.0\TrainingTopicsRough.exe
+C:\Users\darsh\OneDrive\Desktop\Work_palace\TrainingTopicsRough\TrainingTopicsRough\bin\Debug\net8.0\TrainingTopicsRough.deps.json
+C:\Users\darsh\OneDrive\Desktop\Work_palace\TrainingTopicsRough\TrainingTopicsRough\bin\Debug\net8.0\TrainingTopicsRough.runtimeconfig.json
+C:\Users\darsh\OneDrive\Desktop\Work_palace\TrainingTopicsRough\TrainingTopicsRough\bin\Debug\net8.0\TrainingTopicsRough.dll
+C:\Users\darsh\OneDrive\Desktop\Work_palace\TrainingTopicsRough\TrainingTopicsRough\bin\Debug\net8.0\TrainingTopicsRough.pdb
+C:\Users\darsh\OneDrive\Desktop\Work_palace\TrainingTopicsRough\TrainingTopicsRough\obj\Debug\net8.0\TrainingTopicsRough.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\darsh\OneDrive\Desktop\Work_palace\TrainingTopicsRough\TrainingTopicsRough\obj\Debug\net8.0\TrainingTopicsRough.AssemblyInfoInputs.cache
+C:\Users\darsh\OneDrive\Desktop\Work_palace\TrainingTopicsRough\TrainingTopicsRough\obj\Debug\net8.0\TrainingTopicsRough.AssemblyInfo.cs
+C:\Users\darsh\OneDrive\Desktop\Work_palace\TrainingTopicsRough\TrainingTopicsRough\obj\Debug\net8.0\TrainingTopicsRough.csproj.CoreCompileInputs.cache
+C:\Users\darsh\OneDrive\Desktop\Work_palace\TrainingTopicsRough\TrainingTopicsRough\obj\Debug\net8.0\TrainingTopicsRough.dll
+C:\Users\darsh\OneDrive\Desktop\Work_palace\TrainingTopicsRough\TrainingTopicsRough\obj\Debug\net8.0\refint\TrainingTopicsRough.dll
+C:\Users\darsh\OneDrive\Desktop\Work_palace\TrainingTopicsRough\TrainingTopicsRough\obj\Debug\net8.0\TrainingTopicsRough.pdb
+C:\Users\darsh\OneDrive\Desktop\Work_palace\TrainingTopicsRough\TrainingTopicsRough\obj\Debug\net8.0\TrainingTopicsRough.genruntimeconfig.cache
+C:\Users\darsh\OneDrive\Desktop\Work_palace\TrainingTopicsRough\TrainingTopicsRough\obj\Debug\net8.0\ref\TrainingTopicsRough.dll
